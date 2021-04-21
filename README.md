@@ -156,8 +156,10 @@ holidates Belgium
 
 ## Sources :
 
-[The package of _**country-list**_](https://www.npmjs.com/package/country-list)
+- [For the public holidays from a given country](https://date.nager.at/)
 
-[The package of _**axios**_](https://www.npmjs.com/package/axios)
+- [To convert the country name onto a country code](https://www.npmjs.com/package/country-list)
+
+- [To perform HTTP requests](https://www.npmjs.com/package/axios)
 
 Voilà ;)
